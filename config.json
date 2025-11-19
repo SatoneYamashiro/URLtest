@@ -1,0 +1,22 @@
+{
+  "pedestals": [
+    {
+      "index": 0,
+      "blueprintId": "avtr_aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
+    },
+    {
+      "index": 1,
+      "blueprintId": "avtr_ffffffff-1111-2222-3333-444444444444"
+    }
+  ],
+  "objects": [
+    {
+      "name": "EventPoster_A",
+      "active": true
+    },
+    {
+      "name": "EventPoster_B",
+      "active": false
+    }
+  ]
+}
