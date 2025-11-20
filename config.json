@@ -3,20 +3,12 @@
     {
       "index": 0,
       "blueprintId": "https://vrchat.com/home/avatar/avtr_1fd00093-3161-46a3-9683-95e39a9c42a6"
-    },
-    {
-      "index": 1,
-      "blueprintId": "avtr_ffffffff-1111-2222-3333-444444444444"
     }
   ],
   "objects": [
     {
       "name": "GameObject",
       "active": true
-    },
-    {
-      "name": "EventPoster_B",
-      "active": false
     }
   ]
 }
