@@ -1,0 +1,22 @@
+{
+    "ja": {
+        "returnToHome": "ホームに戻る",
+        "homeWelcomeText": "おかえりなさい、{0}さん",
+        "home": "ホーム"
+    },
+    "en ": {
+        "returnToHome": "Return to Home",
+        "homeWelcomeText": "Welcome back, {0}",
+        "home": "Home"
+    },
+    "zh-CN": {
+        "returnToHome": "返回主页",
+        "homeWelcomeText": "欢迎回来，{0}先生",
+        "home": "主页"
+    },
+    "zh-TW": {
+        "returnToHome": "返回主頁",
+        "homeWelcomeText": "歡迎回來，{0}先生",
+        "home": "主頁"
+    }
+}
