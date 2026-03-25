@@ -2,21 +2,25 @@
     "ja": {
         "returnToHome": "ホームに戻る",
         "homeWelcomeText": "おかえりなさい、{0}さん",
-        "home": "ホーム"
+        "home": "ホーム",
+        "Atoire": "後から入れた文字だよ"
     },
     "en ": {
         "returnToHome": "Return to Home",
         "homeWelcomeText": "Welcome back, {0}",
-        "home": "Home"
+        "home": "Home",
+        "Atoire": "後から入れた文字だよ"
     },
     "zh-CN": {
         "returnToHome": "返回主页",
         "homeWelcomeText": "欢迎回来，{0}先生",
-        "home": "主页"
+        "home": "主页",
+        "Atoire": "後から入れた文字だよ"
     },
     "zh-TW": {
         "returnToHome": "返回主頁",
         "homeWelcomeText": "歡迎回來，{0}先生",
-        "home": "主頁"
+        "home": "主頁",
+        "Atoire": "後から入れた文字だよ"
     }
 }
