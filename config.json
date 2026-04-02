@@ -105,7 +105,8 @@
         てすとさん799
         てすとさん800
         てすとさん801",
-        "DairyBonus":"300"
+        "DairyBonus":"100",
+        "DairyBonus__":"100"
     },
     "en ": {
         "returnToHome": "Return to Home",
